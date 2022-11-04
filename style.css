@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(170, 244, 247); /* muda a cor do fundo*/
+        color: rgb(54, 52, 47); /* cor dos testos*/
+        font: normal 25pt; /* tamanho da fonte*/ 
+        padding: 5px; /*Paragrafo*/
+        border: double rgb(0, 0, 0); /* Borda tamanho e cor*/
+}
+        
+h1 {
+    color: rgb(194, 49, 81);
+    text-align: center;
+    border: double rgb(185, 148, 148) ;
+    height:30px;
+    padding-bottom: 30px;
+    width: 40%;
+    margin: 20px auto;
+}
+h2 {
+    font-family: cursive;
+    color:black;
+    text-align: center;
+}
+p {
+    font-family: serif;
+    position: -ms-page;
+    padding-left: 600px;
+}
+img {
+    position: calc(40%); 
+    width: 450px;
+    height: 40%;
+    padding: 2%;
+    
+}
